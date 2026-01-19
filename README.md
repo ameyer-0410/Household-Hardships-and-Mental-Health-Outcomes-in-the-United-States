@@ -1,0 +1,3 @@
+Food Insecurity as a Leading Indicator of State-Level Mental Health Trends
+PROJECT OVERVIEW
+This project examines the relatinship between economic stressors and mental health outcomes across U.S. States using a state-by-month analytic framework. The primary objective is to identify which economic conditions are most closely associated with short-term changes in the prevalence of anxiety and depression. The analysis emphasies food insecurity as a household-level indicator of material hardship and compares its association with mental health outcomes to more traditional macroeconomic measures such as unemployment and inflation.
